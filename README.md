@@ -1,4 +1,4 @@
-# Aaron Garments
+# Aaron Garments (`aaron-garments`)
 
 A responsive multi-page fashion storefront prototype built with React, TypeScript, Vite, and React Router.
 
